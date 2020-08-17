@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KPBS</string>
+    <string name="kakao_restapihost">dapi.kakao.com</string>
+    <string name="kakao_restapikey">1088928e49d79eee1c1b03354bf4decf</string>
+</resources>
